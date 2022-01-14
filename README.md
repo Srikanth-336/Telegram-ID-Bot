@@ -6,7 +6,7 @@
 
 ```
 Made with Python3
-(C) @BXBotz
+(C) @SrikiBots
 Copyright permission under MIT License
 License -> https://github.com/BXBotz/Telegram-ID-Bot/blob/main/LICENSE
 ```
@@ -18,7 +18,7 @@ License -> https://github.com/BXBotz/Telegram-ID-Bot/blob/main/LICENSE
 <details><summary><b>Deploy To Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/BXBotz/Telegram-ID-Bot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/Srikanth-336/Telegram-ID-Bot/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
